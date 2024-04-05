@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">Within the corridors of the University of Information Technology - VNU.HCM, I pursue my passion for Information Systems with an insatiable drive. Fueled by ambition, I continually push boundaries, eager to showcase my capabilities and carve new paths to success. My arsenal includes an unwavering resolve, a knack for rapidly mastering emerging technologies, and a penchant for fostering synergy within teams.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=longorrii&label=Profile%20views&color=0e75b6&style=flat" alt="longorrii" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **at University of Information Technology - VNU HCMC in Vietnam**
@@ -35,6 +33,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longorrii&show_icons=true&locale=en&layout=compact" alt="longorrii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longorrii&show_icons=true&locale=en" alt="longorrii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longorrii&" alt="longorrii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longorrii&show_icons=true&locale=en"alt="longorrii" /></p>
